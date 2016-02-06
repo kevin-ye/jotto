@@ -1,7 +1,7 @@
 [Important!]
 Please read "How To: start a game"/"How to play a game" in the menu of the Applet to see more detailed instructions of controls
 
-- You can start by choosing a difficuly[Easy/Normal/Hard/Any], or by choosing a word yourself
+- You can start by choosing a difficulity[Easy/Normal/Hard/Any], or by choosing a word yourself
 - The word list is provided for you to choose a word as the guess, it is updated as you mark "Must be in"/"Must not be in" letters in the Letter Panel
 - Left click to mark "Must be in", left click once more to cancel the mark
 - Right click to mark "Must not be in", click once more to cancel the mark
